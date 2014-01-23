@@ -1,0 +1,7 @@
+{
+  "name": "image-first-dev",
+  "version": "0.0.0",
+  "scripts": {
+    "start" : "cd public && python -m SimpleHTTPServer 80"
+  }
+}
