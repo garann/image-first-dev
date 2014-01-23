@@ -6,4 +6,4 @@ You can use it by cloning it to your server and adding your website* to the dire
 
 
 
-* an image
+  \* an image
